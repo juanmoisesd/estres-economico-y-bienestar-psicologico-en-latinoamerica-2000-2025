@@ -1,0 +1,16 @@
+{
+  "orcid": "0000-0002-8401-8018",
+  "name": "Juan Moisés de la Serna Tuya",
+  "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+  "email": "juanmoises.delaserna@unir.net",
+  "website": "https://juanmoisesdelaserna.es",
+  "profile": "https://orcid.org/0000-0002-8401-8018",
+  "works": [
+    {
+      "title": "Dataset longitudinal (2000-2025) que examina la relación entre indicadores de estrés económico y salud mental en 21 países de América Latina e Iberia. Variables: PIB per cápita, tasa de desempleo, inflación, coeficiente Gini, tasa de pobreza, índice ",
+      "type": "dataset",
+      "url": "https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025",
+      "year": "2026"
+    }
+  ]
+}
