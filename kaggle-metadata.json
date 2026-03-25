@@ -1,0 +1,23 @@
+{
+  "title": "Dataset longitudinal (2000-2025) que examina la relación entre indicadores de es",
+  "id": "juanmoisesd/estres-economico-y-bienestar-psicologico-en-latino",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "citation",
+    "clinical-psychology",
+    "dataset",
+    "development-economics",
+    "economics",
+    "fair-data",
+    "gdp",
+    "juan-moises-de-la-serna",
+    "latin-america"
+  ],
+  "description": "Dataset longitudinal (2000-2025) que examina la relación entre indicadores de estrés económico y salud mental en 21 países de América Latina e Iberia. Variables: PIB per cápita, tasa de desempleo, inflación, coeficiente Gini, tasa de pobreza, índice \n\nDOI: https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025\nGitHub: https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
