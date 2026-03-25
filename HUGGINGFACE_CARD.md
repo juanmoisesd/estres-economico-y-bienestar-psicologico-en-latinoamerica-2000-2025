@@ -34,21 +34,16 @@ tags:
 
 # Dataset longitudinal (2000-2025) que examina la relación entre indicadores de es
 
-- **DOI:** [https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025](https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025)
-- **GitHub:** [juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025](https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025)
-- **License:** CC BY 4.0
-- **Author:** de la Serna, Juan Moisés
+**DOI:** [https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025](https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025) | **GitHub:** [juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025](https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025) | **License:** CC BY 4.0
 
-## Load
-
+## Quick load
 ```python
 import pandas as pd
-# See Zenodo for actual filenames
-df = pd.read_csv("https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025/files/data.csv")
+# See https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025 for file listing
+df = pd.read_csv("URL_FROM_ZENODO")
 ```
 
-## Citation
-
+## Cite
 ```bibtex
 @dataset{delaserna2025,author={de la Serna, Juan Moisés},title={Dataset longitudinal (2000-2025) que examina la relación ent},year={2025},doi={https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025},url={https://github.com/juanmoisesd/estres-economico-y-bienestar-psicologico-en-latinoamerica-2000-2025}}
 ```
